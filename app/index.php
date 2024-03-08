@@ -12,6 +12,4 @@ if (!$conn) {
 
 echo "Connected to PostgreSQL successfully";
 
-// Your PHP code for PostgreSQL interactions goes here
-
 $conn = null;
